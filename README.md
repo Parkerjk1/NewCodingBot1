@@ -1,2 +1,3 @@
 # NewCodingBot1
-it is the very first repository for me on github
+It is the very first repository for me on github.
+Author-Mohd Junaid Khan
